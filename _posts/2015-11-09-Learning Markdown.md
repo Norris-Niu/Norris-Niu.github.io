@@ -3,7 +3,7 @@ layout: post
 title: Markdown 学习小记
 date: 2015-11-09
 categories: blog
-tags: [markdown]
+tags: [tech]
 description: 学习笔记
 ---
 # Markdown 使用学习

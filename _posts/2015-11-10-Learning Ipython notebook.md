@@ -3,7 +3,7 @@ layout: post
 title: Jupyter notebook 使用学习
 date: 2015-11-10
 categories: blog
-tags: [Jupyter]
+tags: [python]
 description: 学习笔记
 ---
 
