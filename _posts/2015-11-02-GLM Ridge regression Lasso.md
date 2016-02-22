@@ -2,6 +2,8 @@
 layout: post
 title: GLM Ridge regression Lasso
 date: 2015-11-02
+subtitle: 
+author:     "Norris"
 categories: blog
 tags: [Statistic]
 description: 

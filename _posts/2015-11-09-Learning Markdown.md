@@ -2,6 +2,8 @@
 layout: post
 title: Markdown 学习小记
 date: 2015-11-09
+subtitle: 高效格式！超迷你latex
+author:     "Norris"
 categories: blog
 tags: [tech]
 description: 学习笔记

@@ -2,6 +2,8 @@
 layout: post
 title: My First Blog
 date: 2015-09-06
+subtitle: 
+author:     "Norris"
 categories: blog
 tags: [随笔]
 ---

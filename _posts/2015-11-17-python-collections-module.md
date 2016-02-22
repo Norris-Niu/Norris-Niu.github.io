@@ -2,6 +2,8 @@
 layout: post
 title: python collections module
 date: 2015-11-17
+subtitle: 
+author:     "Norris"
 categories: blog
 tags: [python]
 description: 自带模块学习

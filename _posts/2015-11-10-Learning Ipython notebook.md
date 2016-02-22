@@ -3,6 +3,8 @@ layout: post
 title: Jupyter notebook 使用学习
 date: 2015-11-10
 categories: blog
+subtitle: python大法真的好呀
+author:     "Norris"
 tags: [python]
 description: 学习笔记
 ---

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Release
+subtitle: wanna go to japan
+author:     "Norris"
 date: 2015-12-18
 categories: blog
 tags: [随笔]

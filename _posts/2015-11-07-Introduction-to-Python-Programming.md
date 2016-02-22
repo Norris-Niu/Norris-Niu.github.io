@@ -2,6 +2,8 @@
 layout: post
 title: Introduction to Python
 date: 2015-11-07
+subtitle: 
+author:     "Norris"
 categories: blog
 tags: [python]
 description: 转自Ipython notebook 教程页

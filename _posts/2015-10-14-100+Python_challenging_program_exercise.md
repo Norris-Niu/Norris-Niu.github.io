@@ -3,6 +3,8 @@ layout: post
 title: 100+Python challenging program exercise
 date: 2015-10-14
 categories: blog
+subtitle: python大法好啊
+author:     "Norris"
 tags: [python]
 description: 
 ---
