@@ -1,16 +1,31 @@
 ---
-layout: default    
-header-img: "img/red.jpg"  
-description: "你来到了一片荒芜之地"
-permalink: 404.html  
+layout: default
+description: "Whoops, this page doesn't exist.
+
+You're Lost. 
+
+Quik,the way back is fading away...
+
+"
+header-img: "img/404-southpark"
+permalink: /404.html
 ---
 
-<div class="text-center">
-  <h1>Whoops, this page doesn't exist.</h1>
-  <h1>You're Lost. </h1>
-  <h1>Quik,the way back is fading away...<h1>
-  <br/>
 
-  <img src="{{ site.baseurl }}/img/404-southpark.png" />
-</div>
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+				<div class="site-heading" id="tag-heading">
+					<h1>404</h1>
+					<span class="subheading">{{ page.description }}</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
 
+<script>
+	document.body.classList.add('page-fullscreen');
+</script>
