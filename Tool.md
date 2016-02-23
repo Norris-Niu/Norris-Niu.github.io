@@ -22,10 +22,6 @@ header-img: "img/cat.jpg"
 
 [Color-hex Color-Codes](http://www.color-hex.com/)  
 
-[Screen rule](http://azeril.me/Screenrule/)
-
-[Interview](http://azeril.me/Interview/)
-
 [Strut.io](http://strut.io/)
 
 ### Service 
@@ -39,8 +35,6 @@ header-img: "img/cat.jpg"
 [Evernote](https://www.evernote.com/)  
 
 [IFTTT](https://ifttt.com/) 
-
-[NeteaseMusic](http://music.163.com/)  
 
 [Duolingo](duolingo.com) Language Learning  
 
