@@ -64,6 +64,8 @@ header-img: "img/cat.jpg"
 
 ### Resources
 
+[正则表达式](http://wiki.ubuntu.org.cn/index.php?title=Python正则表达式操作指南&variant=zh-cn)
+
 [Library Genesis](http://gen.lib.rus.ec/)  
 
 [bookfi.org](http://en.bookfi.org/)  
