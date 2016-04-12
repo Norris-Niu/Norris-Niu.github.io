@@ -14,6 +14,8 @@ header-img: "img/cat.jpg"
 
 ### Tools 
 
+[Echarts](http://echarts.baidu.com/index.html) 数据可视化
+
 [文图](http://wentu.io) 在线数据报告制作
 
 [Dillinger](http://dillinger.io/) 
