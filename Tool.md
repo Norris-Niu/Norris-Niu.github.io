@@ -66,6 +66,8 @@ header-img: "img/cat.jpg"
 
 ### Resources
 
+[语料库MPQA](http://mpqa.cs.pitt.edu)
+
 [正则表达式](http://wiki.ubuntu.org.cn/index.php?title=Python正则表达式操作指南&variant=zh-cn)
 
 [SQL在线学习](http://sqlzoo.net)
