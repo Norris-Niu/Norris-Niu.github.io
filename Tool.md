@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tools"
-description: "一只狗进化的重要工具"
+description: "一只狗进化的工具"
 header-img: "img/cat.jpg"
 ---
 
